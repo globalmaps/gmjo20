@@ -1,4 +1,4 @@
-# gmjo10: Global Map Jordan 2.0
+# gmjo20: Global Map Jordan 2.0
 ## non-commercial use
 ![attribution](https://globalmaps.github.io/globalmaps/attribution.png)
 ## commercial use
